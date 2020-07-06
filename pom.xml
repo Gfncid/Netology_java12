@@ -40,7 +40,7 @@
                 <executions>
                     <execution>
                         <id>prepare-agent</id>
-                        <phase>initialize</phase>
+                        <phase>verify</phase>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
